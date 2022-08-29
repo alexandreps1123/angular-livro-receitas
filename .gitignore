@@ -10,3 +10,5 @@ node_modules/
 *.code-workspace
 
 *.sh
+
+*.spec.ts
